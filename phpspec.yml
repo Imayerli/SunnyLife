@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: WorldCorean
+        psr4_prefix: WorldCorean
+        src_path: app
